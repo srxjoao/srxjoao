@@ -3,7 +3,7 @@
 Estudo No IFMS Campus Nova Andradina
 
 <div style="display: inline_block"><br>
-Tecnologias que eu uso no meu dia a dia:
+Linguagens Que Uso:
 
 <div style="display inline_block"><br/>
  <img align="center"alt="HTML 5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,3 +18,5 @@ Tecnologias que eu uso no meu dia a dia:
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-0a8988281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
