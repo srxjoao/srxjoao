@@ -3,7 +3,7 @@
 Estudo No IFMS Campus Nova Andradina
 
 <div style="display: inline_block"><br>
-Linguagens Que Uso:
+Tecnologias Que Uso:
 
 <div style="display inline_block"><br/>
  <img align="center"alt="HTML 5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
