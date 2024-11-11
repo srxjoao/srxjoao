@@ -1,13 +1,17 @@
-<h1 align="center">Oiii, eu sou o João Pedro, Estudante de Programação e Tecnologia!</h1>
+<h1 align="center">Oie, eu sou o João Pedro</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=58C8F7&width=435&lines=Estudante+de+Desenvolvimento+Fullstack;+Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 <p align="center">
+  💻 Estudante de Programação | 📍 Atualmente cursando o Técnico em Informática - IFMS
+</p>
+<td></td>
+<p class="ti-frase" align="center">
   <em>“A tecnologia move o mundo”</em> - Steve Jobs
 </p>
 
 
-
-### Tecnologias que utilizo no meu dia a dia:
+<h3  align="center" >
+ Tecnologias que utilizo no meu dia a dia:
+</h3>
 
 <div align="center" style="display: inline_block"><br/>
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,8 +24,9 @@
 </div>
 
 
-
-### Entre em contato comigo:
+<h3  align="center" >
+Entre em contato comigo:
+</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/srx_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
