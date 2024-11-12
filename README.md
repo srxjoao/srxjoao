@@ -3,6 +3,9 @@
 <p align="center">
   💻 Estudante de Programação | 📍 Atualmente cursando o Técnico em Informática - IFMS
 </p>
+<p align="center">
+  💡 Pesquisador | 🧩 Atualmente mendro do LAGAP - NA | IFMAKER - NA
+</p>
 <td></td>
 <p class="ti-frase" align="center">
   <em>“A tecnologia move o mundo”</em> - Steve Jobs
