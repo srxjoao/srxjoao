@@ -13,7 +13,7 @@
 
 
 <h3  align="center" >
- Tecnologias que utilizo no meu dia a dia:
+👩‍💻 Tecnologias
 </h3>
 
 <div align="center" style="display: inline_block"><br/>
@@ -24,6 +24,8 @@
   <img align="center" alt="João-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="João-AzureSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+
 </div>
 
 
