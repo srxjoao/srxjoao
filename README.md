@@ -45,7 +45,11 @@
   </table>
 </div>
 
-<h3 align="center">Entre em contato comigo:</h3>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srxjoao&bg_color=223c63&color=ffffff&line=ffffff&point=29ffe6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"  height="300" alt="activity-graph graph"  />
+</div>
+
+<h3 align="div">Entre em contato comigo:</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/srx_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
