@@ -7,7 +7,7 @@
 <p class="ti-frase" align="center">
   <em>“A tecnologia move o mundo”</em> - Steve Jobs
 </p>
-<h2 align="center">👩‍💻 Tecnologias</h2>
+<h2 align="center">👩‍💻 Tecnologias e Ferramentas</h2>
 
 <div align="center" style="display: inline_block"><br/>
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,9 @@
   <img align="center" alt="João-AzureSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="João-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+    <img align="center" alt="João-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
+
 <h2 align="center">📋 Projetos</h2>
 
 <div align="center">
