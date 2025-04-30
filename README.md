@@ -1,11 +1,11 @@
 <h1 align="center">👋 Oie, eu sou o João Pedro 💙</h1>
 
-<p align="center">
-  💡💻 Estudante de Programação  e Pesquisador  | 📍 Atualmente cursando o Técnico em Informática IFMS - NA
+<p align="center" style="display: inline_block">
+💡💻 Estudante de Programação e Pesquisador  | 📍 Atualmente estudante do curso de Técnico em Informática no IFMS - NA.
 </p>
 
-<p class="ti-frase" align="center">
-  <em>“A tecnologia move o mundo”</em> - Steve Jobs
+<p align="center">
+  <em>“A vida presta”</em> - Fernanda Torres
 </p>
 <h2 align="center">👩‍💻 Tecnologias e Ferramentas</h2>
 
