@@ -33,15 +33,15 @@
       </tr>
     </thead>
     <tbody>
+       <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">Ciência em Jogo</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Desenvolvimento de Jogos Lúdicos para o Ensino de Química, Física e Biologia</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Atualmente</td>
+      </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Mentes Brilhantes da Tecnologia e Ciência</td>
         <td style="padding: 10px; border: 1px solid #ddd;">Homens e Mulheres Negras que Fizeram História e sua Importância na Aplicação da Lei 10.639 e 11.645</td>
         <td style="padding: 10px; border: 1px solid #ddd;">Agosto de 2023 - Julho de 2024</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Ciência em Jogo</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Desenvolvimento de Jogos Lúdicos para o Ensino de Química, Física e Biologia</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Atualmente</td>
       </tr>
     </tbody>
   </table>
