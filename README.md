@@ -21,7 +21,7 @@
     <img align="center" alt="João-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
-<h2 align="center">📋 Projetos</h2>
+<h2 align="center">📋 Projetos Acadêmicos </h2>
 
 <div align="center">
   <table style="width:80%; text-align: center; margin: auto; border-collapse: collapse; border: 1px solid #ddd;">
