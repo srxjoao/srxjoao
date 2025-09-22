@@ -7,6 +7,14 @@
 <p align="center">
   <em>“A vida presta”</em> - Fernanda Torres
 </p>
+
+---
+
+## Sobre mim
+Sou estudante do **Ensino Médio Técnico em Informática** pelo IFMS e entusiasta em **desenvolvimento web, mobile e software**. Estou sempre buscando aprender novas tecnologias e aplicar meus conhecimentos em projetos reais, combinando **cultura maker e inovação**.  
+
+---
+
 <h2 align="center">👩‍💻 Tecnologias e Ferramentas</h2>
 
 <div align="center" style="display: inline_block"><br/>
@@ -18,13 +26,15 @@
   <img align="center" alt="João-AzureSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="João-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-    <img align="center" alt="João-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="João-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
-<h2 align="center">📋 Projetos Acadêmicos </h2>
+---
+
+<h2 align="center">📋 Projetos Acadêmicos e Profissionais</h2>
 
 <div align="center">
-  <table style="width:80%; text-align: center; margin: auto; border-collapse: collapse; border: 1px solid #ddd;">
+  <table style="width:90%; text-align: center; margin: auto; border-collapse: collapse; border: 1px solid #ddd;">
     <thead>
       <tr style="background-color: #f2f2f2;">
         <th style="padding: 10px; border: 1px solid #ddd;">Projeto</th>
@@ -33,7 +43,7 @@
       </tr>
     </thead>
     <tbody>
-       <tr>
+      <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Ciência em Jogo</td>
         <td style="padding: 10px; border: 1px solid #ddd;">Desenvolvimento de Jogos Lúdicos para o Ensino de Química, Física e Biologia</td>
         <td style="padding: 10px; border: 1px solid #ddd;">Novembro de 2024 - Novembro de 2025</td>
@@ -47,10 +57,16 @@
   </table>
 </div>
 
-  <h3  align="center"">Entre em contato comigo:</h3>
+---
+
+<h3 align="center">Entre em contato comigo:</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/srx_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:srxjoao1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srxjoao1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+> “Transformando ideias em soluções digitais e projetos que impactam a educação.”  
