@@ -10,10 +10,9 @@
 
 ---
 
-## Sobre mim
-Sou estudante do **Ensino Médio Técnico em Informática** pelo IFMS e entusiasta em **desenvolvimento web, mobile e software**. Estou sempre buscando aprender novas tecnologias e aplicar meus conhecimentos em projetos reais, combinando **cultura maker e inovação**.  
+<p>Técnico em Informática pelo IFMS, focado em desenvolvimento web, mobile e software, com interesse em inovação, cultura maker e projetos com impacto real.</p>
 
----
+
 
 <h2 align="center">👩‍💻 Tecnologias e Ferramentas</h2>
 
@@ -29,36 +28,6 @@ Sou estudante do **Ensino Médio Técnico em Informática** pelo IFMS e entusias
   <img align="center" alt="João-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
----
-
-<h2 align="center">📋 Projetos Acadêmicos e Profissionais</h2>
-
-<div align="center">
-  <table style="width:90%; text-align: center; margin: auto; border-collapse: collapse; border: 1px solid #ddd;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="padding: 10px; border: 1px solid #ddd;">Projeto</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">Descrição</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">Período</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Ciência em Jogo</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Desenvolvimento de Jogos Lúdicos para o Ensino de Química, Física e Biologia</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Novembro de 2024 - Novembro de 2025</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Mentes Brilhantes da Tecnologia e Ciência</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Homens e Mulheres Negras que Fizeram História e sua Importância na Aplicação da Lei 10.639 e 11.645</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Agosto de 2023 -<br/> Agosto de 2024</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
-
 <h3 align="center">Entre em contato comigo:</h3>
 
 <div align="center">
@@ -66,7 +35,7 @@ Sou estudante do **Ensino Médio Técnico em Informática** pelo IFMS e entusias
   <a href="mailto:srxjoao1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srxjoao1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br>
 
----
 
-> “Transformando ideias em soluções digitais e projetos que impactam a educação.”  
+>“Transformando ideias em soluções digitais e projetos que impactam a educação.”
