@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oie, eu sou o João Pedro 💙</h1>
 
 <p align="center" style="display: inline_block">
-💡💻 Estudante de Programação e Pesquisador  | 📍 Atualmente estudante do curso de Técnico em Informática no IFMS - NA.
+💡💻 Estudante de Tecnologia e Pesquisador  | 📍 Técnico em Informática pelo IFMS - NA.
 </p>
 
 <p align="center">
